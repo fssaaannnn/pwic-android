@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="@string/refresh"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_group_by_hour"
+        android:checkable="true"
+        android:title="@string/group_by_hour" />
+    <item
+        android:id="@+id/menu_exclude_retweet"
+        android:checkable="true"
+        android:title="@string/exclude_retweet" />
+</menu>

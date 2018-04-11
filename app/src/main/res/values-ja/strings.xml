@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">設定</string>
+    <string name="auth_failed">認証が失敗しましたか、キャンセルされました</string>
+    <string name="refresh">リロード</string>
+    <string name="timeline_empty">タイムラインは空っぽ</string>
+    <string name="group_by_hour">1時間ごとグループ</string>
+    <string name="exclude_retweet">リツイートを除外</string>
+</resources>
